@@ -1,8 +1,8 @@
 {
-  "homepage": "https://abrih.github.io/Netflex-Clone/",
+  "homepage": "https://abrih.github.io/Netflex-Clone",
   "name": "Netflex-Clone",
   "private": true,
-  "version": "0.0.0",
+  "version": "18.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
